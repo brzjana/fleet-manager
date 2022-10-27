@@ -1,0 +1,8 @@
+route_planner:
+  host: 'localhost'
+  port: 8080
+vehicles:
+  - city: Basel
+    speed: 20
+  - city: Aarau
+    speed: 16

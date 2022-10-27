@@ -1,0 +1,5 @@
+pyproj
+pyzmq
+flask
+pyaml
+kafka-python

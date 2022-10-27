@@ -1,0 +1,11 @@
+route_planner:
+  host: 'route-planner'
+  port: 8080
+event_streaming:
+  host: 'kafka'
+  port: 9092
+vehicles:
+  - city: Basel
+    speed: 20
+  - city: Aarau
+    speed: 16
